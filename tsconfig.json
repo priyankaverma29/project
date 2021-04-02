@@ -16,5 +16,10 @@
     {
       "path": "./e2e/tsconfig.json"
     }
-]
+],
+"include": [
+    "test.ts",
+    "polyfills.ts"
+  ]
 }
+
